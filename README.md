@@ -18,7 +18,8 @@ The App will be served at `http://localhost:3000/` in your favourite browser.
 
 ###### run `npm deploy`
 <br />
-#### See the Project live [here](https://prakashs25.github.io/social-network-frontend/)
+
+#### See the Project live [here](https://prakashs25.github.io/social-network-frontend)
 
 This is a project I built by following a tutorial on youtube.
 This project helps to learn a lot of concepts and technology stacks and improve skills.
